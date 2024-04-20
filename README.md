@@ -1,1 +1,1 @@
-# zomato-clone
+# pricing-cards-ui
